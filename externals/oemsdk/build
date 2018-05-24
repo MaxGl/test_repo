@@ -1,0 +1,4 @@
+use_sources: n
+
+artifactory: 2.6.+
+source: svn://exmaple.com/oemsdk/

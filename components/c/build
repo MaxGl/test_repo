@@ -1,0 +1,3 @@
+use_sources: y
+
+artifactory: 1.+
